@@ -50,7 +50,7 @@ const Page1Content = () => {
   return (
     <div className="flex h-[calc(100vh-100px)] px-12">
       {/* Left side - Text content aligned to left */}
-      <div className="flex flex-col justify-between py-6 w-[380px] shrink-0">
+      <div className="flex flex-col justify-between py-6 w-95 shrink-0">
         <HeroText />
         <Arrow />
       </div>
